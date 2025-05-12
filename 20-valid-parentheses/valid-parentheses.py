@@ -1,14 +1,23 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        map = {")" : "(","]" : "[", "}" : "{"}
         stack=[]
         for c in s:
-            if c in map :
-                if stack and stack[-1] == map[c]:
-                    stack.pop()
-                else:
-                    return False
-            else:
+            if c =='(' or c =='{' or c=='[':
                 stack.append(c)
-        return True if not stack else False
+            else:
+                if not stack:
+                    return False
+                elif self.matches(stack[-1],c)==False:
+                    return False
+                else:
+                    stack.pop()
+
+        return len(stack)==0
+
+    def matches (self, a:str, b:str) -> bool:
+        return a=='(' and b==')'or a=='{' and b=='}' or a=='[' and b==']'
+            
+
+
+
         
