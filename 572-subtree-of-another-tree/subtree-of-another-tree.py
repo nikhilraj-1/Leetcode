@@ -16,9 +16,7 @@ class Solution:
     def isMatch(self,p: Optional[TreeNode], q: Optional[TreeNode]) -> bool: 
          if not p and not q:
             return True
-        
-         if not p or not q:
+         if p and q and p.val == q.val:
+            return self.isMatch(p.left, q.left) and self.isMatch(p.right, q.right)
+         else:
             return False
-         if p.val != q.val:
-            return False
-         return self.isMatch(p.left, q.left) and self.isMatch(p.right, q.right)
