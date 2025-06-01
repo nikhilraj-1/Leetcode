@@ -13,7 +13,7 @@ class Solution:
         return self.ans
     
     def k(self,root,k):
-        if not root or self.ans is not None:
+        if not root:
             return 
         self.k(root.left,k)
         self.count+=1
