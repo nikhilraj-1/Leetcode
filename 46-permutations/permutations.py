@@ -1,23 +1,17 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        op =[]
         ans =[]
-
-        def permuatations(nums,op,ans):
-            if len(nums)==0:
-                ans.append(op)
-                return
-            s =set()    
-            for i in range(len(nums)):
-                if nums[i] not in s:
+        def P(nums,start,ans):
+            if start==len(nums)-1:
+                ans.append(nums[:])
+            s = set()
+            for i in range (start,len(nums)):
+                if nums[i] not in s :
                     s.add(nums[i])
-                    newIp=nums[0:i]+nums[i+1:]
-                    newop=op+[nums[i]]
-                    permuatations(newIp,newop,ans)
-        permuatations(nums,op,ans)
+                    nums[start],nums[i]=nums[i],nums[start]
+                    P(nums,start+1,ans)
+                    nums[start],nums[i]=nums[i],nums[start]
+
+        P(nums,0,ans)
         return ans
-    
-    
-
-
-    
+        
