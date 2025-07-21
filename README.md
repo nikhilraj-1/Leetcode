@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/nikhilraj-1/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nikhilraj-1/Leetcode/tree/master/0242-valid-anagram) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/nikhilraj-1/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
