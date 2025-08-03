@@ -1,11 +1,11 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        res=set()
+        res=[]
         temp=[]
         candidates.sort()
         def dfs(i,curr):
             if curr == target:
-                res.add(tuple(temp.copy()))
+                res.append(temp.copy())
                 return
             if i>=len(candidates) or curr >target:
                 return
@@ -18,5 +18,5 @@ class Solution:
             dfs(i+1,curr)
 
         dfs(0,0)
-        return list(res)   
+        return res  
         
