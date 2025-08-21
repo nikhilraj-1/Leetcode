@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nikhilraj-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/nikhilraj-1/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/nikhilraj-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nikhilraj-1/Leetcode/tree/master/0143-reorder-list) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -116,4 +119,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
