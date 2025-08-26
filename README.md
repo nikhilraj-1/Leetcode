@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nikhilraj-1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilraj-1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/nikhilraj-1/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilraj-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nikhilraj-1/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1813-maximum-erasure-value](https://github.com/nikhilraj-1/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilraj-1/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilraj-1/Leetcode/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilraj-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/nikhilraj-1/Leetcode/tree/master/0242-valid-anagram) |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikhilraj-1/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nikhilraj-1/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilraj-1/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nikhilraj-1/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nikhilraj-1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilraj-1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/nikhilraj-1/Leetcode/tree/master/0337-house-robber-iii) |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilraj-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -135,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/nikhilraj-1/Leetcode/tree/master/0337-house-robber-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
