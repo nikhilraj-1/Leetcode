@@ -5,7 +5,7 @@ class Solution:
             return a
         b = max(nums[0],nums[1])
         if len(nums)<3:
-                return b
+            return b
         def rob_l(nums):
             a = nums[0]
             if len(nums)<2:
