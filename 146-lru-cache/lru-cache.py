@@ -1,24 +1,43 @@
+class Node:
+    def __init__(self, key, val):
+        self.key, self.val = key, val
+        self.prev = self.next = None
+
 class LRUCache:
     def __init__(self, capacity: int):
-        # Maximum number of items cache can hold
         self.cap = capacity
-        # OrderedDict remembers insertion order (and we can move keys on access)
-        self.od = OrderedDict()
+        self.cache = {}  # map key to node
+
+        #left = LRU, right = most recent
+        self.left, self.right = Node(0, 0), Node(0, 0)
+        self.left.next, self.right.prev = self.right, self.left
+
+    #remove node from list
+    def remove(self, node):
+        prev, nxt = node.prev, node.next
+        prev.next, nxt.prev = nxt, prev
+
+    #insert node from right
+    def insert(self, node):
+        prev, nxt = self.right.prev, self.right
+        prev.next = nxt.prev = node
+        node.next, node.prev = nxt, prev
 
     def get(self, key: int) -> int:
-        # If key not found → return -1
-        if key not in self.od:
-            return -1
-        # Move the key to the end → marks it as recently used
-        self.od.move_to_end(key)
-        return self.od[key]
+        if key in self.cache:
+            self.remove(self.cache[key])
+            self.insert(self.cache[key])
+            return self.cache[key].val
+        return -1
 
     def put(self, key: int, value: int) -> None:
-        # If key already exists, move it to the end (update recency)
-        if key in self.od:
-            self.od.move_to_end(key)
-        # Insert/Update key with value
-        self.od[key] = value
-        # If cache exceeds capacity → remove least recently used item (first one)
-        if len(self.od) > self.cap:
-            self.od.popitem(last=False)   # last=False → pop from the front (LRU)
+        if key in self.cache:
+            self.remove(self.cache[key])
+        self.cache[key] = Node(key, value)
+        self.insert(self.cache[key])
+
+        if len(self.cache) > self.cap:
+            lru = self.left.next
+            #remove from list and delete from hashmap
+            self.remove(lru)
+            del self.cache[lru.key]
