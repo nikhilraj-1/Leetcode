@@ -25,7 +25,7 @@ class TaskManager:
             p,t = heapq.heappop(self.pq)
             if -t in self.task_map:
                 i,cp= self.task_map[-t]
-                if cp == -p:
+                if cp == -p: #lazy deletion require to check that heap entry is valid priority not the stale one, hm has the fresh entries
                     self.rmv(-t)
                     return i
         return -1
