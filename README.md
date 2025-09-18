@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1813-maximum-erasure-value](https://github.com/nikhilraj-1/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [3678-design-task-manager](https://github.com/nikhilraj-1/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilraj-1/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3678-design-task-manager](https://github.com/nikhilraj-1/Leetcode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhilraj-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [3678-design-task-manager](https://github.com/nikhilraj-1/Leetcode/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/nikhilraj-1/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
