@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nikhilraj-1/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhilraj-1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/nikhilraj-1/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nikhilraj-1/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nikhilraj-1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilraj-1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nikhilraj-1/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nikhilraj-1/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nikhilraj-1/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikhilraj-1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/nikhilraj-1/Leetcode/tree/master/0337-house-robber-iii) |
