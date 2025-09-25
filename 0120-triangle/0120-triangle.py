@@ -1,18 +1,14 @@
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:
-  
-        res = [[0] * len(triangle[i]) for i in range(len(triangle))]
-        res[0]=triangle[0]
-        for i in range(1,len(triangle)):
-            for j in range(len(triangle[i])):
-                if j ==0:
-                    res[i][j] = triangle[i][j] + res[i-1][j]
-                elif j == len(triangle[i])-1:
-                    res[i][j] = triangle[i][j]+res[i-1][j-1]
-                else:
-                    res[i][j]=triangle[i][j] + min(res[i-1][j],res[i-1][j-1])
-        return min(res[len(triangle)-1])
-
-        
-
-        
+        dp=[[float('inf')]*len(triangle[i]) for i in range(len(triangle))]
+        def dfs(i,j):
+            if i == len(triangle)-1:
+                dp[i][j]=triangle[i][j]
+                return dp[i][j]
+            if dp[i][j] !=float('inf'):
+                return dp[i][j]
+            left = dfs(i+1,j)
+            right =dfs(i+1,j+1)
+            dp[i][j]=triangle[i][j] + min(left,right)
+            return dp[i][j]
+        return dfs(0,0)
