@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/nikhilraj-1/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilraj-1/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -175,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilraj-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
