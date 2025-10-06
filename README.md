@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nikhilraj-1/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1127-last-stone-weight](https://github.com/nikhilraj-1/Leetcode/tree/master/1127-last-stone-weight) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhilraj-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/nikhilraj-1/Leetcode/tree/master/1127-last-stone-weight) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3678-design-task-manager](https://github.com/nikhilraj-1/Leetcode/tree/master/3678-design-task-manager) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
@@ -160,9 +163,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/nikhilraj-1/Leetcode/tree/master/0337-house-robber-iii) |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Ordered Set
 |  |
@@ -188,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
