@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/nikhilraj-1/Leetcode/tree/master/0089-gray-code) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nikhilraj-1/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nikhilraj-1/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/nikhilraj-1/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/nikhilraj-1/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
