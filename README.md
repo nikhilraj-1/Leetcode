@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/nikhilraj-1/Leetcode/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nikhilraj-1/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilraj-1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/nikhilraj-1/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilraj-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/nikhilraj-1/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/nikhilraj-1/Leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilraj-1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nikhilraj-1/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Ordered Set
 |  |
