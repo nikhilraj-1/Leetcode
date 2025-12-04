@@ -22,8 +22,5 @@ class Solution:
                 break
             j-=1
 
-        print(leftL)
-        print(rightR)
-        print(countS)
         return len(directions) - leftL - rightR - countS
         
