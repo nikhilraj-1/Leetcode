@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikhilraj-1/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nikhilraj-1/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nikhilraj-1/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2211-count-collisions-on-a-road](https://github.com/nikhilraj-1/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nikhilraj-1/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/nikhilraj-1/Leetcode/tree/master/0143-reorder-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nikhilraj-1/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2211-count-collisions-on-a-road](https://github.com/nikhilraj-1/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/nikhilraj-1/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nikhilraj-1/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nikhilraj-1/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
