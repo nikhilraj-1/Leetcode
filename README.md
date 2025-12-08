@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/nikhilraj-1/Leetcode/tree/master/0089-gray-code) |
+| [1925-count-square-sum-triples](https://github.com/nikhilraj-1/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilraj-1/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nikhilraj-1/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nikhilraj-1/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/nikhilraj-1/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/nikhilraj-1/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
